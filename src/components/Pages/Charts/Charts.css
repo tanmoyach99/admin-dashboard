@@ -1,0 +1,10 @@
+.charts{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.chartsTitle{
+    font-size:20px;
+    /* font-weight:600;
+    margin-bottom: 20px; */
+}

@@ -1,0 +1,50 @@
+.widgetLg{
+    flex: 2;
+     box-shadow: 5px 5px 10px lightgray;
+     padding: 20px;
+     border-radius: 5px;
+}
+.widgetLgTitle{
+    font-weight: 600;
+    font-size: 20px;
+}
+.widgetLgImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+.widgetLgButton {
+    padding: 5px 7px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.approved{
+    background-color:lawngreen;
+    color: green;
+}
+.widgetLgButton.pending{
+    background-color:yellow;
+    color:tomato;
+}
+.widgetLgButton.declined{
+    background-color:red;
+    color: lightcoral;
+}
+.widgetLgTable{
+    width: 100%;
+    border-spacing: 20px;
+}
+.widgetLgTh{
+    text-align:left
+}
+.widgetLgUser{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+.widgetLgDate.widgetLgAmount{
+    color: red;
+}
