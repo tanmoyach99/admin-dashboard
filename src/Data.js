@@ -48,6 +48,26 @@ export const userData = [
     "active user": 4890,
   },
 ];
+
+export const productData = [
+  {
+    name: "Jan",
+    sales: 8690,
+  },
+  {
+    name: "Feb",
+    sales: 3990,
+  },
+  {
+    name: "March",
+    sales: 6890,
+  },
+  {
+    name: "Apr",
+    sales: 4890,
+  },
+];
+
 export const rows = [
   {
     id: 1,
@@ -139,5 +159,96 @@ export const rows = [
     status: "active",
     avatar: "https://i.ibb.co/f0kK5w2/IMG-20201121-232938-removebg-preview.png",
     transactions: "$120.30",
+  },
+];
+
+export const rowsProduct = [
+  {
+    id: 1,
+    name: "Iphone",
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 2,
+    name: "Iphone",
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 3,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 4,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 5,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 6,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 7,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 8,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 9,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
+  },
+  {
+    id: 10,
+    name: "Iphone",
+
+    stock: 111,
+    status: "active",
+    img: "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&.v=1567022175704",
+    price: "$120.30",
   },
 ];

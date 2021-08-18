@@ -46,10 +46,12 @@ const Sidebar = () => {
                 Users
               </li>
             </Link>
-            <li className="sideBarListItem">
-              <LineWeightIcon className="sideBarIcon" />
-              Products
-            </li>
+            <Link to="/products">
+              <li className="sideBarListItem">
+                <LineWeightIcon className="sideBarIcon" />
+                Products
+              </li>
+            </Link>
             <li className="sideBarListItem">
               <MonetizationOnIcon className="sideBarIcon" />
               Transactions
